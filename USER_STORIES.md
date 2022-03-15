@@ -9,7 +9,7 @@ to vacancies.
 4. Profile Edition(consider profile pic attachment)
 5. Apply to vacancy
 6. Add skills to my profile
-7. Vacancy search(by company, by skills)
+7. Vacancy search(by skills or title)
 
 ## As a User I can create an account
 
